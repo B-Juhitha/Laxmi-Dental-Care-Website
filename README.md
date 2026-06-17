@@ -1,32 +1,24 @@
-# Laxmi Dental Care Website
+# Dental Healthcare Websites & SEO Portfolio
 
 ## Overview
-A healthcare website project focused on website management, SEO optimization, content writing, and digital marketing activities for Laxmi Dental Care.
+Portfolio showcasing website management, SEO optimization, content writing, and digital marketing work for dental healthcare websites.
 
-## My Contributions
-- Website Content Management
-- WordPress Website Updates
+## Websites Worked On
+- Laxmi Dental Care
+- Meena's Advanced Dental Clinic
+
+## Responsibilities
+- WordPress Website Management
 - SEO Optimization
-- Blog Content Writing
+- Blog Publishing
+- Content Writing
 - Keyword Research
-- Meta Title & Meta Description Optimization
-- Local SEO Activities
+- Local SEO
+- Meta Optimization
 
-## Technologies Used
+## Skills Demonstrated
 - WordPress
-- HTML
-- CSS
-- SEO Tools
-- Google Workspace
-
-## Content Writing Projects
-- Best Dentist for Children in Vanasthalipuram
-- Root Canal Treatment Cost in Vanasthalipuram
-- Root Canal Treatment in Vanasthalipuram
-- Benefits of Invisible Aligners in Vanasthalipuram
-
-## Website
-https://laxmidentalcare.in
-
-## Author
-Baratam Juhitha
+- SEO
+- Content Marketing
+- Digital Marketing
+- Website Management
